@@ -2652,83 +2652,847 @@ http://nitrotv.for-the.biz:25461/live/EAS11/1111/1315.ts
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/1319.ts
 #EXTINF:-1 tvg-id="UK: BT FHD 2" tvg-name="UK: BT FHD 2" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT FHD 2
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/1316.ts
-#EXTINF:-1 tvg-id="uk.BT Sport 3 HD" tvg-name="UK: BT SPORTS 3 HD" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT SPORTS 3 HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1320.ts
-#EXTINF:-1 tvg-id="UK: BT FHD 3" tvg-name="UK: BT FHD 3" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK SPORTS & INTERNATIONAL",UK: BT FHD 3
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1317.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports F1" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://i.redditmedia.com/jbIc0d8qKdbtisoC0YHRQyPS2Ee2BzA-DeG6cX3V6hw.jpg?w=320&s=a6f3fe95e50272bb0ce6a6cb761e0de5" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports F1 HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1365.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports 1" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Main Event HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1360.ts
-#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 1" tvg-name="UK: SKY SPORTS FHD F1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS FHD F1
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1368.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports 2" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Cricket HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1361.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Cricket FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/7947.ts
-#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 1" tvg-name="UK: SKY SPORTS Main Event FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Main Event FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1366.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports 3" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Action HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1362.ts
-#EXTINF:-1 tvg-id="UK: SKY SPORTS FHD 3" tvg-name="UK: SKY SPORTS Action FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Action FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1367.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports 4" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Golf HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1363.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Golf FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Golf FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1303.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports 5" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Premier League HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1364.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS Premier League FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS Premier League FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1304.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Arena FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/7949.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Arena HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/7948.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Football FHD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/7951.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Football HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/7950.ts
-#EXTINF:-1 tvg-id="uk.Premier Sports" tvg-name="UK: Premier Sports" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/p200x200/12227209_990180371004841_9143985061435387495_n.jpg?oh=99ca078b2024d30a1e704edb56ee293d&oe=5950BC1A" group-title="UK SPORTS & INTERNATIONAL",UK: Premier Sports
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2089.ts
-#EXTINF:-1 tvg-id="UK: PREMIER SPORTS HD" tvg-name="UK: Premier Sports HD" tvg-logo="https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-1/12227209_990180371004841_9143985061435387495_n.jpg?oh=531b225f0b4b2fd09e5493266ecee5fd&oe=5951D641" group-title="UK SPORTS & INTERNATIONAL",UK: Premier Sports HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1341.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports News HD" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Sky_Sports_News_HQ_logo_2015.svg/500px-Sky_Sports_News_HQ_logo_2015.svg.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports News
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1369.ts
-#EXTINF:-1 tvg-id="uk.Sky Sp Mix HD" tvg-name="UK: Sky Sports Mix" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/05/Sky-Sports-Mix.png" group-title="UK SPORTS & INTERNATIONAL",UK: Sky Sports Mix
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1305.ts
-#EXTINF:-1 tvg-id="uk.Racing UK HD" tvg-name="UK: Racing UK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Racinguk.png" group-title="UK SPORTS & INTERNATIONAL",UK: Racing UK HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1342.ts
-#EXTINF:-1 tvg-id="uk.Eurosport 1 HD" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 1 HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2088.ts
-#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDK4g0nrnG6-naEOaWdYYG9uY4Tqv9_SbSuGt2hU91OSj-D3i3" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 2 HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2087.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 1
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3199.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="UK SPORTS & INTERNATIONAL",UK: Eurosport 2
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3198.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS 1
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3404.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://www.thelogodb.com/images/media/logo/rqqxvx1433965320.png/medium" group-title="UK SPORTS & INTERNATIONAL",UK: SKY SPORTS F1
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3405.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: CHELSEA TV HD" tvg-logo="http://www.chelseafc.com/content/cfc/en/homepage/news/boilerplate-config/latest-news/2016/08/under-18s--home-games-live-on-chelsea-tv.img.png" group-title="UK SPORTS & INTERNATIONAL",UK: CHELSEA TV HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3552.ts
-#EXTINF:-1 tvg-id="uk.MUTV HD" tvg-name="UK: MUTV HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8b/MUTV.png/revision/latest/scale-to-width-down/320?cb=20140909134334" group-title="UK SPORTS & INTERNATIONAL",UK: MUTV HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/1337.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool TV" tvg-logo="https://v.cdn.vine.co/r/avatars/2DB3FEE2D71192518304376967168_309575c4f5b.1.5.jpg?versionId=A6N3NSZCPgF_OERlxZjx9DJmS0LireAH" group-title="UK SPORTS & INTERNATIONAL",UK: Liverpool TV
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3371.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC HD" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-lfctv.jpg" group-title="UK SPORTS & INTERNATIONAL",UK: LFC HD
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3551.ts
-#EXTINF:-1 tvg-id="uk.BoxNation" tvg-name="UK: BoxNation" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4e/BoxNation2.png/revision/latest/scale-to-width-down/313?cb=20150705003828" group-title="UK SPORTS & INTERNATIONAL",UK: BoxNation
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2191.ts
-#EXTINF:-1 tvg-id="uk.At The Races" tvg-name="UK: At The Races" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ42xnM-whCZqx1ZNzBNyUzwGDQksPnQcyu54CUc-k3QuWKeyr" group-title="UK SPORTS & INTERNATIONAL",UK: At The Races
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2086.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/aa/Racinguk.jpg/revision/latest/scale-to-width-down/600?cb=20140411182930" group-title="UK SPORTS & INTERNATIONAL",UK: Racing UK
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/3386.ts
-#EXTINF:-1 tvg-id="uk.eir Sport 1" tvg-name="UK: eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Eirsport1logo.png/300px-Eirsport1logo.png" group-title="UK SPORTS & INTERNATIONAL",UK: eir Sport 1
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/2090.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: eir Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK SPORTS & INTERNATIONAL",UK: eir Sport 2
-http://nitrotv.for-the.biz:25461/live/EAS11/1111/5313.ts
-#EXTINF:-1 tvg-id="uk.RTÉ One" tvg-name="UK: RTE ONE HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/24/Rteone.png/revision/latest/scale-to-width-down/185?cb=20160722160939" group-title="U.K.",UK: RTE ONE HD
+#EXTM3U
+#EXTINF:-1,US: AXN HD
+http://212.8.248.197:8080/live/adrio/adrio/1503.ts
+#EXTINF:-1,US: Free From
+http://212.8.248.197:8080/live/adrio/adrio/1448.ts
+#EXTINF:-1,US: A&E Network
+http://212.8.248.197:8080/live/adrio/adrio/1458.ts
+#EXTINF:-1,US: Thrill HD
+http://212.8.248.197:8080/live/adrio/adrio/1471.ts
+#EXTINF:-1,US: FOX life HD
+http://212.8.248.197:8080/live/adrio/adrio/1510.ts
+#EXTINF:-1,US: Bravo HD
+http://212.8.248.197:8080/live/adrio/adrio/1507.ts
+#EXTINF:-1,US: A&E HD
+http://212.8.248.197:8080/live/adrio/adrio/1500.ts
+#EXTINF:-1,US: NBC Golf
+http://212.8.248.197:8080/live/adrio/adrio/1477.ts
+#EXTINF:-1,US: CBS HD
+http://212.8.248.197:8080/live/adrio/adrio/1485.ts
+#EXTINF:-1,US: CHCH 2
+http://212.8.248.197:8080/live/adrio/adrio/1482.ts
+#EXTINF:-1,US: Free Rom
+http://212.8.248.197:8080/live/adrio/adrio/1465.ts
+#EXTINF:-1,US: AMC HD
+http://212.8.248.197:8080/live/adrio/adrio/1534.ts
+#EXTINF:-1,US: Discovery World
+http://212.8.248.197:8080/live/adrio/adrio/1499.ts
+#EXTINF:-1,US: Bloomberg
+http://212.8.248.197:8080/live/adrio/adrio/1464.ts
+#EXTINF:-1,US: History
+http://212.8.248.197:8080/live/adrio/adrio/1523.ts
+#EXTINF:-1,US: NatGeo Wild
+http://212.8.248.197:8080/live/adrio/adrio/1484.ts
+#EXTINF:-1,US: Animal Planet+1
+http://212.8.248.197:8080/live/adrio/adrio/1467.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://212.8.248.197:8080/live/adrio/adrio/1529.ts
+#EXTINF:-1,US: Crime and Investigation
+http://212.8.248.197:8080/live/adrio/adrio/1511.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://212.8.248.197:8080/live/adrio/adrio/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://212.8.248.197:8080/live/adrio/adrio/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://212.8.248.197:8080/live/adrio/adrio/1489.ts
+#EXTINF:-1,US: Famly HD
+http://212.8.248.197:8080/live/adrio/adrio/1495.ts
+#EXTINF:-1,US: SEC Network
+http://212.8.248.197:8080/live/adrio/adrio/1463.ts
+#EXTINF:-1,US: FOX Comedy
+http://212.8.248.197:8080/live/adrio/adrio/1432.ts
+#EXTINF:-1,US: USA Network
+http://212.8.248.197:8080/live/adrio/adrio/1498.ts
+#EXTINF:-1,US: More Max HD
+http://212.8.248.197:8080/live/adrio/adrio/1460.ts
+#EXTINF:-1,US: TBS HD
+http://212.8.248.197:8080/live/adrio/adrio/1506.ts
+#EXTINF:-1,US: CBC Toronto
+http://212.8.248.197:8080/live/adrio/adrio/1541.ts
+#EXTINF:-1,US: CBC Vancover
+http://212.8.248.197:8080/live/adrio/adrio/1494.ts
+#EXTINF:-1,US: Spike HD
+http://212.8.248.197:8080/live/adrio/adrio/1442.ts
+#EXTINF:-1,US: E TV
+http://212.8.248.197:8080/live/adrio/adrio/1531.ts
+#EXTINF:-1,US: TV ONE HD
+http://212.8.248.197:8080/live/adrio/adrio/1481.ts
+#EXTINF:-1,US: CBSN HD
+http://212.8.248.197:8080/live/adrio/adrio/1462.ts
+#EXTINF:-1,US: ABC 7
+http://212.8.248.197:8080/live/adrio/adrio/1491.ts
+#EXTINF:-1,US: NBA TV
+http://212.8.248.197:8080/live/adrio/adrio/1520.ts
+#EXTINF:-1,US: OWN
+http://212.8.248.197:8080/live/adrio/adrio/1493.ts
+#EXTINF:-1,US: News Channel 21
+http://212.8.248.197:8080/live/adrio/adrio/1456.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://212.8.248.197:8080/live/adrio/adrio/1466.ts
+#EXTINF:-1,US: BBC Amrica
+http://212.8.248.197:8080/live/adrio/adrio/1514.ts
+#EXTINF:-1,US: CNN Eng
+http://212.8.248.197:8080/live/adrio/adrio/1443.ts
+#EXTINF:-1,US: Msnbc
+http://212.8.248.197:8080/live/adrio/adrio/1447.ts
+#EXTINF:-1,US: Beto TV
+http://212.8.248.197:8080/live/adrio/adrio/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://212.8.248.197:8080/live/adrio/adrio/1535.ts
+#EXTINF:-1,US: TSC
+http://212.8.248.197:8080/live/adrio/adrio/1449.ts
+#EXTINF:-1,USA A&E
+http://54.37.255.204:9977/live/Rivera/Rivera/35251.ts
+#EXTINF:-1,USA ABC NEWS
+http://54.37.255.204:9977/live/Rivera/Rivera/35248.ts
+#EXTINF:-1,USA AFN Movie
+http://54.37.255.204:9977/live/Rivera/Rivera/35245.ts
+#EXTINF:-1,USA AMC
+http://54.37.255.204:9977/live/Rivera/Rivera/35243.ts
+#EXTINF:-1,USA Bloomberg
+http://54.37.255.204:9977/live/Rivera/Rivera/35242.ts
+#EXTINF:-1,USA Bravo
+http://54.37.255.204:9977/live/Rivera/Rivera/35241.ts
+#EXTINF:-1,USA CA-TSN1
+http://54.37.255.204:9977/live/Rivera/Rivera/35217.ts
+#EXTINF:-1,USA CA-TSN2
+http://54.37.255.204:9977/live/Rivera/Rivera/35216.ts
+#EXTINF:-1,USA CA-TSN3
+http://54.37.255.204:9977/live/Rivera/Rivera/35215.ts
+#EXTINF:-1,USA CA-TSN4
+http://54.37.255.204:9977/live/Rivera/Rivera/35214.ts
+#EXTINF:-1,USA CA-TSN5
+http://54.37.255.204:9977/live/Rivera/Rivera/35213.ts
+#EXTINF:-1,USA CBS
+http://54.37.255.204:9977/live/Rivera/Rivera/35247.ts
+#EXTINF:-1,USA CineMax
+http://54.37.255.204:9977/live/Rivera/Rivera/35244.ts
+#EXTINF:-1,USA CNBC
+http://54.37.255.204:9977/live/Rivera/Rivera/35240.ts
+#EXTINF:-1,USA CW
+http://54.37.255.204:9977/live/Rivera/Rivera/35239.ts
+#EXTINF:-1,USA ESPN
+http://54.37.255.204:9977/live/Rivera/Rivera/35238.ts
+#EXTINF:-1,USA ESPN 2
+http://54.37.255.204:9977/live/Rivera/Rivera/35237.ts
+#EXTINF:-1,USA FOX
+http://54.37.255.204:9977/live/Rivera/Rivera/35236.ts
+#EXTINF:-1,USA Fox News
+http://54.37.255.204:9977/live/Rivera/Rivera/35235.ts
+#EXTINF:-1,USA Fox Sports 2 HD
+http://54.37.255.204:9977/live/Rivera/Rivera/35233.ts
+#EXTINF:-1,USA FoxSports 1
+http://54.37.255.204:9977/live/Rivera/Rivera/35234.ts
+#EXTINF:-1,USA FX
+http://54.37.255.204:9977/live/Rivera/Rivera/35232.ts
+#EXTINF:-1,USA Hallmark
+http://54.37.255.204:9977/live/Rivera/Rivera/35231.ts
+#EXTINF:-1,USA HBO
+http://54.37.255.204:9977/live/Rivera/Rivera/35254.ts
+#EXTINF:-1,USA HBO FAMILY
+http://54.37.255.204:9977/live/Rivera/Rivera/35253.ts
+#EXTINF:-1,USA HBO Signature
+http://54.37.255.204:9977/live/Rivera/Rivera/35255.ts
+#EXTINF:-1,USA HBO US
+http://54.37.255.204:9977/live/Rivera/Rivera/35256.ts
+#EXTINF:-1,USA HBO ZONE
+http://54.37.255.204:9977/live/Rivera/Rivera/35252.ts
+#EXTINF:-1,USA HISTORY
+http://54.37.255.204:9977/live/Rivera/Rivera/35230.ts
+#EXTINF:-1,USA MTV Live
+http://54.37.255.204:9977/live/Rivera/Rivera/35229.ts
+#EXTINF:-1,USA NBA TV
+http://54.37.255.204:9977/live/Rivera/Rivera/35228.ts
+#EXTINF:-1,USA NBC
+http://54.37.255.204:9977/live/Rivera/Rivera/35246.ts
+#EXTINF:-1,USA NETWORK
+http://54.37.255.204:9977/live/Rivera/Rivera/35221.ts
+#EXTINF:-1,USA NFL NETWORK
+http://54.37.255.204:9977/live/Rivera/Rivera/35227.ts
+#EXTINF:-1,USA NHL NETWORK
+http://54.37.255.204:9977/live/Rivera/Rivera/35226.ts
+#EXTINF:-1,USA Showtime
+http://54.37.255.204:9977/live/Rivera/Rivera/35225.ts
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://54.37.255.204:9977/live/Rivera/Rivera/35224.ts
+#EXTINF:-1,USA STARZ CINEMA
+http://54.37.255.204:9977/live/Rivera/Rivera/35223.ts
+#EXTINF:-1,USA STARZ COMEDY
+http://54.37.255.204:9977/live/Rivera/Rivera/35222.ts
+#EXTINF:-1,USA STARZ ENCORE
+http://54.37.255.204:9977/live/Rivera/Rivera/35220.ts
+#EXTINF:-1,USA SYFY
+http://54.37.255.204:9977/live/Rivera/Rivera/35219.ts
+#EXTINF:-1,USA WWEHD
+http://54.37.255.204:9977/live/Rivera/Rivera/35218.ts
+#EXTINF:-1,US: SPIKE HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5237.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5236.ts
+#EXTINF:-1,US: Cartoon Network HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7932.ts
+#EXTINF:-1,US: Cuzi
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5225.ts
+#EXTINF:-1,US: FreeRom HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5234.ts
+#EXTINF:-1,US: CBS HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7800.ts
+#EXTINF:-1,US: National Geographic HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5404.ts
+#EXTINF:-1,US: Investigation Discovery
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5410.ts
+#EXTINF:-1,US: HISTORY
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5405.ts
+#EXTINF:-1,US: HBO Family
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5400.ts
+#EXTINF:-1,US: Food Network HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5403.ts
+#EXTINF:-1,US: TENNIS HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5407.ts
+#EXTINF:-1,US: Discovery Science HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5409.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5408.ts
+#EXTINF:-1,US: Animal Planet HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5406.ts
+#EXTINF:-1,US: HBO Zone HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5389.ts
+#EXTINF:-1,US: HBO East HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5388.ts
+#EXTINF:-1,US: FX HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5231.ts
+#EXTINF:-1,US: FOX 59 HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5232.ts
+#EXTINF:-1,US: FOX Business HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5233.ts
+#EXTINF:-1,US: ESPN HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5227.ts
+#EXTINF:-1,US: CW HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5230.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5242.ts
+#EXTINF:-1,US: Buzzr
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5244.ts
+#EXTINF:-1,US: Al Jazeera News English
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8097.ts
+#EXTINF:-1,US: CBS News HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8098.ts
+#EXTINF:-1,US: BRAVO HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5228.ts
+#EXTINF:-1,US: AMC HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5229.ts
+#EXTINF:-1,US: ABC HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5239.ts
+#EXTINF:-1,US: A&E TV HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5240.ts
+#EXTINF:-1,US: LIFE TIME HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3588.ts
+#EXTINF:-1,US: HIFI
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3589.ts
+#EXTINF:-1,US: Fox 4 HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3590.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3591.ts
+#EXTINF:-1,US: MSNBC HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8000.ts
+#EXTINF:-1,US: HBO HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3592.ts
+#EXTINF:-1,US: HALLMARK
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3593.ts
+#EXTINF:-1,US: H2
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3594.ts
+#EXTINF:-1,US: A&E HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3585.ts
+#EXTINF:-1,US: Bravo
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2654.ts
+#EXTINF:-1,US: CNN HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/876.ts
+#EXTINF:-1,US: NFL Network HD 1080P
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2863.ts
+#EXTINF:-1,US: NBC SPORT
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2864.ts
+#EXTINF:-1,US: USA Network HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/871.ts
+#EXTINF:-1,US: HBO Family HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/878.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/874.ts
+#EXTINF:-1,US: HBO Plus
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/875.ts
+#EXTINF:-1,US: ABC News HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/873.ts
+#EXTINF:-1,US: ESPN
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/872.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5386.ts
+#EXTINF:-1,US: WWE HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5184.ts
+#EXTINF:-1,USA: ABC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4192.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4191.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4190.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4189.ts
+#EXTINF:-1,USA: AMC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4188.ts
+#EXTINF:-1,USA: Bein Sports USA HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4187.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4185.ts
+#EXTINF:-1,USA: CBSN HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4184.ts
+#EXTINF:-1,USA: CNBC
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4183.ts
+#EXTINF:-1,USA: Comedy Central
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4182.ts
+#EXTINF:-1,USA: DISCCOVERY HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4181.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4180.ts
+#EXTINF:-1,USA: ESPN
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4178.ts
+#EXTINF:-1,USA: ESPN 2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4177.ts
+#EXTINF:-1,USA: ESPN News US HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4176.ts
+#EXTINF:-1,USA: ESPN U HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4175.ts
+#EXTINF:-1,USA: Fight HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4174.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4173.ts
+#EXTINF:-1,USA: Food Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4172.ts
+#EXTINF:-1,USA: Food Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4171.ts
+#EXTINF:-1,USA: Fox HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4170.ts
+#EXTINF:-1,USA: FOX News HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4169.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4168.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4167.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4166.ts
+#EXTINF:-1,USA: FOXX HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4165.ts
+#EXTINF:-1,USA: FX HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4164.ts
+#EXTINF:-1,USA: H2
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4163.ts
+#EXTINF:-1,USA: HBO Comedy
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4162.ts
+#EXTINF:-1,USA: HBO East
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4161.ts
+#EXTINF:-1,USA: HBO HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4160.ts
+#EXTINF:-1,USA: HBO Signature
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4159.ts
+#EXTINF:-1,USA: HBO Zone
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4158.ts
+#EXTINF:-1,USA: MBL HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4157.ts
+#EXTINF:-1,USA: MLB Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4156.ts
+#EXTINF:-1,USA: MSNBC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4155.ts
+#EXTINF:-1,USA: National Geographic
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4154.ts
+#EXTINF:-1,USA: NBA TV HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4153.ts
+#EXTINF:-1,USA: NBC
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4152.ts
+#EXTINF:-1,USA: NBC Golf
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4151.ts
+#EXTINF:-1,USA: NBCSN HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
+#EXTINF:-1,USA: NFL Network 1
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4149.ts
+#EXTINF:-1,USA: NFL Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4148.ts
+#EXTINF:-1,USA: NHL Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4147.ts
+#EXTINF:-1,USA: NICKELODEON HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4146.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4141.ts
+#EXTINF:-1,USA: Red Bull
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4139.ts
+#EXTINF:-1,USA: SEC Network
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4138.ts
+#EXTINF:-1,USA: Smile Of A Child
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4137.ts
+#EXTINF:-1,USA: SPIKE HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4136.ts
+#EXTINF:-1,USA: Sports-Net
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4135.ts
+#EXTINF:-1,USA: TBS HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4134.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4133.ts
+#EXTINF:-1,USA: TLC HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4132.ts
+#EXTINF:-1,USA: Toon Kids
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4131.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4130.ts
+#EXTINF:-1,USA: USA Network HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4129.ts
+#EXTINF:-1,USA: WWE HD
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4127.ts
+#EXTINF:-1,UK: BBC 1
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/274.ts
+#EXTINF:-1,UK: BBC 2
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/273.ts
+#EXTINF:-1,UK: BBC 3
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/272.ts
+#EXTINF:-1,UK: BBC 4
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/271.ts
+#EXTINF:-1,UK: BBC One Scotland
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17995.ts
+#EXTINF:-1,UK: BBC Two Scotland
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17996.ts
+#EXTINF:-1,UK: BBC One Wales
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17997.ts
+#EXTINF:-1,UK: BBC Parliament
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17998.ts
+#EXTINF:-1,UK: BBC Alba
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17999.ts
+#EXTINF:-1,UK: CBeebies
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6146.ts
+#EXTINF:-1,UK: CBBC
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6147.ts
+#EXTINF:-1,UK: BBC News HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/915.ts
+#EXTINF:-1,UK: Itv 1
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/268.ts
+#EXTINF:-1,UK: Itv 2
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/267.ts
+#EXTINF:-1,UK: Itv 3
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/252.ts
+#EXTINF:-1,UK: Itv 4
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/251.ts
+#EXTINF:-1,UK: Alibi
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/933.ts
+#EXTINF:-1,UK: TLC
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2074.ts
+#EXTINF:-1,UK: Really
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1631.ts
+#EXTINF:-1,UK: Fox
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1632.ts
+#EXTINF:-1,UK: Nat Geo
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1293.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1302.ts
+#EXTINF:-1,UK: History
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2236.ts
+#EXTINF:-1,UK: H2
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2237.ts
+#EXTINF:-1,UK: UTV Ireland
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2221.ts
+#EXTINF:-1,UK: TV3 IR HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2225.ts
+#EXTINF:-1,UK: spike
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2226.ts
+#EXTINF:-1,UK: RTEjr
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2227.ts
+#EXTINF:-1,UK: Cartoonito
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17913.ts
+#EXTINF:-1,UK: Real Lives
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2222.ts
+#EXTINF:-1,UK: PICK
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2223.ts
+#EXTINF:-1,UK: VH1 Classic
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/13841.ts
+#EXTINF:-1,UK: 4Music
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12518.ts
+#EXTINF:-1,UK: 4seven
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12517.ts
+#EXTINF:-1,UK: Bike
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12515.ts
+#EXTINF:-1,UK: Blaze
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12514.ts
+#EXTINF:-1,UK: Bloomberg
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12513.ts
+#EXTINF:-1,UK: Challenge
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12512.ts
+#EXTINF:-1,UK: CITV
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12511.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12509.ts
+#EXTINF:-1,UK: Discovery Shed
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12508.ts
+#EXTINF:-1,UK: Disney XD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12507.ts
+#EXTINF:-1,UK: FLAVA
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12506.ts
+#EXTINF:-1,UK: Free Sports
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12505.ts
+#EXTINF:-1,UK: France 24
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12504.ts
+#EXTINF:-1,UK: Home Health
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12503.ts
+#EXTINF:-1,UK: Irish Tv
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12502.ts
+#EXTINF:-1,UK: ITV Box Office PPV
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12475.ts
+#EXTINF:-1,UK: Kix
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12501.ts
+#EXTINF:-1,UK: London Live
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12500.ts
+#EXTINF:-1,UK: Motors
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12499.ts
+#EXTINF:-1,UK: My 5
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12497.ts
+#EXTINF:-1,UK: Nick Jnr Too
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12496.ts
+#EXTINF:-1,UK: Pick TV
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12495.ts
+#EXTINF:-1,UK: POP
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12494.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12493.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12492.ts
+#EXTINF:-1,UK: S4C
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12491.ts
+#EXTINF:-1,UK: Scuzz
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12490.ts
+#EXTINF:-1,UK: Sony Channel
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12489.ts
+#EXTINF:-1,UK: TV5
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12480.ts
+#EXTINF:-1,UK: UFC fight night Pass HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12520.ts
+#EXTINF:-1,UK: UFC Fight PASS
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12479.ts
+#EXTINF:-1,UK: Viceland HD
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12478.ts
+#EXTINF:-1,UK: VIVA
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12477.ts
+#EXTINF:-1,UK: W 1
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12476.ts
+#EXTINF:-1,UK: ITVBE
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2224.ts
+#EXTINF:-1,UK: Fox News
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2234.ts
+#EXTINF:-1,UK: DMAX
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2220.ts
+#EXTINF:-1,UK: Life OK
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2842.ts
+#EXTINF:-1,UK: Colors Europe
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2846.ts
+#EXTINF:-1,UK: Colors
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2845.ts
+#EXTINF:-1,UK: CareWorld
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2856.ts
+#EXTINF:-1,UK: B4U PLUS
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2851.ts
+#EXTINF:-1,UK: B4U Music
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2853.ts
+#EXTINF:-1,UK: B4U Movies
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2850.ts
+#EXTINF:-1,UK: And TV
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2841.ts
+#EXTINF:-1,UK: ABP News
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2859.ts
+#EXTINF:-1,UK: Aaj Tak
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2858.ts
+#EXTINF:-1,UK: Zing
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2854.ts
+#EXTINF:-1,UK: Zee TV
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2837.ts
+#EXTINF:-1,UK: Zee Punjabi
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2855.ts
+#EXTINF:-1,UK: Star Plus
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2838.ts
+#EXTINF:-1,UK: Star Jalsha
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2857.ts
+#EXTINF:-1,UK: Star Gold
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2848.ts
+#EXTINF:-1,UK: SET Max
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2849.ts
+#EXTINF:-1,UK: Sab TV (SET)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2840.ts
+#EXTINF:-1,UK: Rishtey Europe
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2844.ts
+#EXTINF:-1,UK: Rishtey
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2843.ts
+#EXTINF:-1,UK: 4Music
+http://54.37.255.204:9977/live/Rivera/Rivera/27047.ts
+#EXTINF:-1,UK: DMAX
+http://54.37.255.204:9977/live/Rivera/Rivera/27104.ts
+#EXTINF:-1,UK: FOX
+http://54.37.255.204:9977/live/Rivera/Rivera/27109.ts
+#EXTINF:-1,UK: Gold
+http://54.37.255.204:9977/live/Rivera/Rivera/27058.ts
+#EXTINF:-1,UK: HBO 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27113.ts
+#EXTINF:-1,UK: HBO HD
+http://54.37.255.204:9977/live/Rivera/Rivera/27114.ts
+#EXTINF:-1,UK: History
+http://54.37.255.204:9977/live/Rivera/Rivera/27054.ts
+#EXTINF:-1,UK: History 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27053.ts
+#EXTINF:-1,UK: Home&Health 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27052.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://54.37.255.204:9977/live/Rivera/Rivera/27059.ts
+#EXTINF:-1,UK: ITV 2 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27103.ts
+#EXTINF:-1,UK: ITV 3 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27102.ts
+#EXTINF:-1,UK: ITV 4 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/27101.ts
+#EXTINF:-1,UK: Life time
+http://54.37.255.204:9977/live/Rivera/Rivera/27110.ts
+#EXTINF:-1,UK: Manchester United TV
+http://54.37.255.204:9977/live/Rivera/Rivera/27083.ts
+#EXTINF:-1,UK: Mototrs TV
+http://54.37.255.204:9977/live/Rivera/Rivera/27081.ts
+#EXTINF:-1,UK: MTV
+http://54.37.255.204:9977/live/Rivera/Rivera/27049.ts
+#EXTINF:-1,UK: MTV Base HD
+http://54.37.255.204:9977/live/Rivera/Rivera/27048.ts
+#EXTINF:-1,UK: Nat Geo Graphic
+http://54.37.255.204:9977/live/Rivera/Rivera/27066.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://54.37.255.204:9977/live/Rivera/Rivera/27056.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://54.37.255.204:9977/live/Rivera/Rivera/27055.ts
+#EXTINF:-1,UK: Nick Jr 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27075.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://54.37.255.204:9977/live/Rivera/Rivera/27074.ts
+#EXTINF:-1,UK: Nickelodeon
+http://54.37.255.204:9977/live/Rivera/Rivera/27073.ts
+#EXTINF:-1,UK: Nickelodeon 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27072.ts
+#EXTINF:-1,UK: Sony Channel 1
+http://54.37.255.204:9977/live/Rivera/Rivera/27117.ts
+#EXTINF:-1,UK: Syfy
+http://54.37.255.204:9977/live/Rivera/Rivera/27108.ts
+#EXTINF:-1,UK: TCM
+http://54.37.255.204:9977/live/Rivera/Rivera/27107.ts
+#EXTINF:-1,UK: VH1
+http://54.37.255.204:9977/live/Rivera/Rivera/27051.ts
+#EXTINF:-1,UK: VIVA
+http://54.37.255.204:9977/live/Rivera/Rivera/27050.ts
+#EXTINF:-1,UK: Rte 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/263.ts
+#EXTINF:-1,UK: Rte 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/262.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/160.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/163.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/158.ts
+#EXTINF:-1,UK: ITV 4 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/174.ts
+#EXTINF:-1,UK: EuroSport 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/167.ts
+#EXTINF:-1,UK: Natinonal Georaphic
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/1295.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/177.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/165.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/159.ts
+#EXTINF:-1,UK: BBC News
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/2474.ts
+#EXTINF:-1,UK: CBS Action HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/2424.ts
+#EXTINF:-1,UK: Sport F1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/3102.ts
+#EXTINF:-1,UK: News HD
+http://212.8.248.197:8080/live/adrio/adrio/550.ts
+#EXTINF:-1,UK: RTE News
+http://212.8.248.197:8080/live/adrio/adrio/431.ts
+#EXTINF:-1,UK: BBC News
+http://212.8.248.197:8080/live/adrio/adrio/428.ts
+#EXTINF:-1,UK: CBBC HD
+http://212.8.248.197:8080/live/adrio/adrio/430.ts
+#EXTINF:-1,UK: ITV 1
+http://212.8.248.197:8080/live/adrio/adrio/471.ts
+#EXTINF:-1,UK: ITV 2
+http://212.8.248.197:8080/live/adrio/adrio/470.ts
+#EXTINF:-1,UK: ITV 3
+http://212.8.248.197:8080/live/adrio/adrio/469.ts
+#EXTINF:-1,UK: ITV 4
+http://212.8.248.197:8080/live/adrio/adrio/468.ts
+#EXTINF:-1,UK: ITV Be
+http://212.8.248.197:8080/live/adrio/adrio/429.ts
+#EXTINF:-1,UK: ITV Encore
+http://212.8.248.197:8080/live/adrio/adrio/467.ts
+#EXTINF:-1,UK: BBC4/CBEEBIES
+http://212.8.248.197:8080/live/adrio/adrio/433.ts
+#EXTINF:-1,UK: 3e
+http://212.8.248.197:8080/live/adrio/adrio/432.ts
+#EXTINF:-1,UK: TV3
+http://212.8.248.197:8080/live/adrio/adrio/434.ts
+#EXTINF:-1,UK: CITV
+http://212.8.248.197:8080/live/adrio/adrio/436.ts
+#EXTINF:-1,UK: Cbs Drama
+http://212.8.248.197:8080/live/adrio/adrio/482.ts
+#EXTINF:-1,UK: Pick
+http://212.8.248.197:8080/live/adrio/adrio/437.ts
+#EXTINF:-1,UK: Cbs Action
+http://212.8.248.197:8080/live/adrio/adrio/481.ts
+#EXTINF:-1,UK: CBS Reality
+http://212.8.248.197:8080/live/adrio/adrio/510.ts
+#EXTINF:-1,UK: BBC One HD
+http://212.8.248.197:8080/live/adrio/adrio/488.ts
+#EXTINF:-1,UK: BBC Two HD
+http://212.8.248.197:8080/live/adrio/adrio/487.ts
+#EXTINF:-1,UK: BBC Three HD
+http://212.8.248.197:8080/live/adrio/adrio/486.ts
+#EXTINF:-1,UK: BBC Four HD
+http://212.8.248.197:8080/live/adrio/adrio/485.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://212.8.248.197:8080/live/adrio/adrio/426.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://212.8.248.197:8080/live/adrio/adrio/427.ts
+#EXTINF:-1,UK: Comedy Central
+http://212.8.248.197:8080/live/adrio/adrio/463.ts
+#EXTINF:-1,UK: Comedy Central Ex
+http://212.8.248.197:8080/live/adrio/adrio/462.ts
+#EXTINF:-1,UK: Food Network
+http://212.8.248.197:8080/live/adrio/adrio/495.ts
+#EXTINF:-1,UK: Sony Movies
+http://212.8.248.197:8080/live/adrio/adrio/501.ts
+#EXTINF:-1,UK: Bloomberg HD
+http://212.8.248.197:8080/live/adrio/adrio/457.ts
+#EXTINF:-1,UK: Boomerang
+http://212.8.248.197:8080/live/adrio/adrio/444.ts
+#EXTINF:-1,UK: Nickelodeon
+http://212.8.248.197:8080/live/adrio/adrio/503.ts
+#EXTINF:-1,UK: Nickelodeon JR
+http://212.8.248.197:8080/live/adrio/adrio/423.ts
+#EXTINF:-1,UK: NickToons
+http://212.8.248.197:8080/live/adrio/adrio/446.ts
+#EXTINF:-1,UK: Disney XD HD
+http://212.8.248.197:8080/live/adrio/adrio/493.ts
+#EXTINF:-1,UK: Disney Junior HD
+http://212.8.248.197:8080/live/adrio/adrio/494.ts
+#EXTINF:-1,UK: Disney Chaneel HD
+http://212.8.248.197:8080/live/adrio/adrio/492.ts
+#EXTINF:-1,UK: Discovery Science
+http://212.8.248.197:8080/live/adrio/adrio/526.ts
+#EXTINF:-1,UK: Discovery History
+http://212.8.248.197:8080/live/adrio/adrio/491.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://212.8.248.197:8080/live/adrio/adrio/465.ts
+#EXTINF:-1,UK: Discovery Shed
+http://212.8.248.197:8080/live/adrio/adrio/445.ts
+#EXTINF:-1,UK: Discovery
+http://212.8.248.197:8080/live/adrio/adrio/464.ts
+#EXTINF:-1,UK: National Geographic HD
+http://212.8.248.197:8080/live/adrio/adrio/499.ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://212.8.248.197:8080/live/adrio/adrio/498.ts
+#EXTINF:-1,UK: Animal Planet HD
+http://212.8.248.197:8080/live/adrio/adrio/497.ts
+#EXTINF:-1,UK: History HD
+http://212.8.248.197:8080/live/adrio/adrio/496.ts
+#EXTINF:-1,UK: History 2
+http://212.8.248.197:8080/live/adrio/adrio/452.ts
+#EXTINF:-1,UK: Ci
+http://212.8.248.197:8080/live/adrio/adrio/514.ts
+#EXTINF:-1,UK: 1
+http://212.8.248.197:8080/live/adrio/adrio/475.ts
+#EXTINF:-1,UK: 2
+http://212.8.248.197:8080/live/adrio/adrio/507.ts
+#EXTINF:-1,UK: Atlantic
+http://212.8.248.197:8080/live/adrio/adrio/483.ts
+#EXTINF:-1,UK: E! Entertainment
+http://212.8.248.197:8080/live/adrio/adrio/447.ts
+#EXTINF:-1,UK: VH1
+http://212.8.248.197:8080/live/adrio/adrio/449.ts
+#EXTINF:-1,UK: E4
+http://212.8.248.197:8080/live/adrio/adrio/451.ts
+#EXTINF:-1,UK: TG4
+http://212.8.248.197:8080/live/adrio/adrio/422.ts
+#EXTINF:-1,UK: Syfy
+http://212.8.248.197:8080/live/adrio/adrio/538.ts
+#EXTINF:-1,UK: CNBC
+http://212.8.248.197:8080/live/adrio/adrio/466.ts
+#EXTINF:-1,UK: Dave HD
+http://212.8.248.197:8080/live/adrio/adrio/506.ts
+#EXTINF:-1,UK: RTE One
+http://212.8.248.197:8080/live/adrio/adrio/474.ts
+#EXTINF:-1,UK: RTE One UP
+http://212.8.248.197:8080/live/adrio/adrio/1568.ts
+#EXTINF:-1,UK: RTE Two
+http://212.8.248.197:8080/live/adrio/adrio/478.ts
+#EXTINF:-1,UK: RTE Two UP
+http://212.8.248.197:8080/live/adrio/adrio/1569.ts
+#EXTINF:-1,UK: Fox
+http://212.8.248.197:8080/live/adrio/adrio/460.ts
+#EXTINF:-1,UK: Five
+http://212.8.248.197:8080/live/adrio/adrio/473.ts
+#EXTINF:-1,UK: Arts 1 HD
+http://212.8.248.197:8080/live/adrio/adrio/489.ts
+#EXTINF:-1,UK: Baby
+http://212.8.248.197:8080/live/adrio/adrio/424.ts
+#EXTINF:-1,UK: Eden
+http://212.8.248.197:8080/live/adrio/adrio/425.ts
+#EXTINF:-1,UK: Alibi
+http://212.8.248.197:8080/live/adrio/adrio/509.ts
+#EXTINF:-1,UK: Living HD
+http://212.8.248.197:8080/live/adrio/adrio/502.ts
+#EXTINF:-1,UK: BoxNation
+http://212.8.248.197:8080/live/adrio/adrio/490.ts
+#EXTINF:-1,UK: Racing
+http://212.8.248.197:8080/live/adrio/adrio/458.ts
+#EXTINF:-1,UK: Gold
+http://212.8.248.197:8080/live/adrio/adrio/508.ts
+#EXTINF:-1,UK: 5 USA
+http://212.8.248.197:8080/live/adrio/adrio/480.ts
+#EXTINF:-1,UK: 5 star
+http://212.8.248.197:8080/live/adrio/adrio/477.ts
+#EXTINF:-1,UK: life Time
+http://212.8.248.197:8080/live/adrio/adrio/476.ts
+#EXTINF:-1,UK: 5 Spik
+http://212.8.248.197:8080/live/adrio/adrio/525.ts
+#EXTINF:-1,UK: TCM
+http://212.8.248.197:8080/live/adrio/adrio/459.ts
+#EXTINF:-1,UK: CNN
+http://212.8.248.197:8080/live/adrio/adrio/454.ts
+#EXTINF:-1,UK: Dmax
+http://212.8.248.197:8080/live/adrio/adrio/456.ts
+#EXTINF:-1,UK: TLC
+http://212.8.248.197:8080/live/adrio/adrio/455.ts
+#EXTINF:-1,UK: STV
+http://212.8.248.197:8080/live/adrio/adrio/448.ts
+#EXTINF:-1,UK: MTV
+http://212.8.248.197:8080/live/adrio/adrio/1550.ts
+#EXTINF:-1,UK: MTV Rocks HD
+http://212.8.248.197:8080/live/adrio/adrio/442.ts
+#EXTINF:-1,UK: MTV Hits HD
+http://212.8.248.197:8080/live/adrio/adrio/443.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://212.8.248.197:8080/live/adrio/adrio/441.ts
+#EXTINF:-1,UK: MTV Classic
+http://212.8.248.197:8080/live/adrio/adrio/500.ts
+#EXTINF:-1,UK: MTV Base
+http://212.8.248.197:8080/live/adrio/adrio/440.ts
+#EXTINF:-1,UK: Fine Living Network
+http://212.8.248.197:8080/live/adrio/adrio/1544.ts
+#EXTINF:-1,UK: 4Music
+http://212.8.248.197:8080/live/adrio/adrio/1543.ts
+#EXTINF:-1,UK: VH1 Classic
+http://212.8.248.197:8080/live/adrio/adrio/450.ts
+#EXTINF:-1,UK: VIVA the Hits
+http://212.8.248.197:8080/live/adrio/adrio/439.ts
+#EXTINF:-1,UK: Kronehit TV
+http://212.8.248.197:8080/live/adrio/adrio/1545.ts
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/3435.ts
 #EXTINF:-1 tvg-id="uk.RTÉ Two" tvg-name="UK: RTE TWO HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest/scale-to-width-down/300?cb=20140911191147" group-title="U.K.",UK: RTE TWO HD
 http://nitrotv.for-the.biz:25461/live/EAS11/1111/3436.ts
