@@ -5424,3 +5424,505 @@ https://archive.org/download/little-lulu/024.mp4
 https://archive.org/download/little-lulu/025.mp4
 #EXTINF:0,Little Lulu (Arabic) - Mom's Birthday (1977)
 https://archive.org/download/little-lulu/026.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="(US) A&E HD" tvg-logo="http://picon.webhop.net/logo/usa/ae_us.png" group-title="USA",(US) A&E HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137339.ts
+#EXTINF:-1 tvg-ID="ABC Eastern US" tvg-name="(US) ABC HD" tvg-logo="http://picon.webhop.net/logo/usa/aabc_tv_us.png" group-title="USA",(US) ABC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ABC News HD" tvg-logo="http://picon.webhop.net/logo/usa/abc_news_now.png" group-title="USA",(US) ABC News HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ABC W HD" tvg-logo="" group-title="USA",(US) ABC W HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Family HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_family.png" group-title="USA",(US) AFN Family HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN MOVIE HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_movie.png" group-title="USA",(US) AFN MOVIE HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN NEWS HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_news.png" group-title="USA",(US) AFN NEWS HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Prime HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_prime_us.png" group-title="USA",(US) AFN Prime HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN SPORTS 1 HD" tvg-logo="" group-title="USA",(US) AFN SPORTS 1 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN SPORTS 2 HD" tvg-logo="" group-title="USA",(US) AFN SPORTS 2 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Spectrum HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_spectrum.png" group-title="USA",(US) AFN Spectrum HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Sport 1" tvg-logo="" group-title="USA",(US) AFN Sport 1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Sport 2" tvg-logo="" group-title="USA",(US) AFN Sport 2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137334.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) AFN Sports HD" tvg-logo="http://picon.webhop.net/logo/usa/afn_sports_us.png" group-title="USA",(US) AFN Sports HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137333.ts
+#EXTINF:-1 tvg-ID="AMC US" tvg-name="(US) AMC HD" tvg-logo="http://picon.webhop.net/logo/usa/amc_us.png" group-title="USA",(US) AMC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) American Heroes HD" tvg-logo="http://picon.webhop.net/logo/usa/american_heroes_channel_us.png" group-title="USA",(US) American Heroes HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137331.ts
+#EXTINF:-1 tvg-ID="Animal Planet US" tvg-name="(US) Animal Planet FHD" tvg-logo="http://picon.webhop.net/logo/usa/animal_planet_us_hd.png" group-title="USA",(US) Animal Planet FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137421.ts
+#EXTINF:-1 tvg-ID="Animal Planet US" tvg-name="(US) Animal Planet HD" tvg-logo="http://picon.webhop.net/logo/usa/animal_planet_us_hd.png" group-title="USA",(US) Animal Planet HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) BBC America HD" tvg-logo="http://picon.webhop.net/logo/usa/bbc_america_hd.png" group-title="USA",(US) BBC America HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) BET HD" tvg-logo="http://picon.webhop.net/logo/usa/bet_us.png" group-title="USA",(US) BET HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137447.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) BTN Sport HD" tvg-logo="" group-title="USA",(US) BTN Sport HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137329.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Bloomberg HD" tvg-logo="http://picon.webhop.net/logo/usa/bloomberg_tv_us.png" group-title="USA",(US) Bloomberg HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Boomerang HD" tvg-logo="http://picon.webhop.net/logo/usa/boomerang_global_hd.png" group-title="USA",(US) Boomerang HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137419.ts
+#EXTINF:-1 tvg-ID="C-Span 1 US" tvg-name="(US) C-Span 1" tvg-logo="http://picon.webhop.net/logo/usa/cspan.png" group-title="USA",(US) C-Span 1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137318.ts
+#EXTINF:-1 tvg-ID="C-Span 2 US" tvg-name="(US) C-Span 2" tvg-logo="http://picon.webhop.net/logo/usa/cspan2.png" group-title="USA",(US) C-Span 2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137317.ts
+#EXTINF:-1 tvg-ID="C-Span 3 US" tvg-name="(US) C-Span 3" tvg-logo="http://picon.webhop.net/logo/usa/cspan3.png" group-title="USA",(US) C-Span 3
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CA Sportsnet 360 HD" tvg-logo="" group-title="USA",(US) CA Sportsnet 360 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CAPITAL TV" tvg-logo="http://picon.webhop.net/logo/usa/capital_otb_tv.png" group-title="USA",(US) CAPITAL TV
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CBC Vancover" tvg-logo="" group-title="USA",(US) CBC Vancover
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137314.ts
+#EXTINF:-1 tvg-ID="CBS Eastern US" tvg-name="(US) CBS HD" tvg-logo="http://picon.webhop.net/logo/usa/cbs_hd.png" group-title="USA",(US) CBS HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137445.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CBS San Diego HD" tvg-logo="" group-title="USA",(US) CBS San Diego HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CBS Sports Network HD" tvg-logo="" group-title="USA",(US) CBS Sports Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CBS W HD" tvg-logo="" group-title="USA",(US) CBS W HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CBSN US" tvg-logo="" group-title="USA",(US) CBSN US
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137327.ts
+#EXTINF:-1 tvg-ID="CNBC US" tvg-name="(US) CNBC HD" tvg-logo="http://picon.webhop.net/logo/usa/cnbc_us.png" group-title="USA",(US) CNBC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137326.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CNN News HD" tvg-logo="" group-title="USA",(US) CNN News HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137236.ts
+#EXTINF:-1 tvg-ID="CNN HD US" tvg-name="(US) CNN US" tvg-logo="http://picon.webhop.net/logo/usa/cnn_usa.png" group-title="USA",(US) CNN US
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137325.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CTV 2 Vancover Island" tvg-logo="" group-title="USA",(US) CTV 2 Vancover Island
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CTV Vancouver" tvg-logo="" group-title="USA",(US) CTV Vancouver
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137232.ts
+#EXTINF:-1 tvg-ID="Cartoon Network US" tvg-name="(US) Cartoon Network HD" tvg-logo="http://picon.webhop.net/logo/usa/cartoon_network_global.png" group-title="USA",(US) Cartoon Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137446.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Chiller HD" tvg-logo="" group-title="USA",(US) Chiller HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CineMax 5 StarMax" tvg-logo="" group-title="USA",(US) CineMax 5 StarMax
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) CineMax Action HD" tvg-logo="" group-title="USA",(US) CineMax Action HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137309.ts
+#EXTINF:-1 tvg-ID="CineMAX Eastern US" tvg-name="(US) CineMax East" tvg-logo="http://picon.webhop.net/logo/usa/cinemax_west.png" group-title="USA",(US) CineMax East
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Cinemax Action" tvg-logo="" group-title="USA",(US) Cinemax Action
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Cinemax More HD" tvg-logo="" group-title="USA",(US) Cinemax More HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Comedy Central" tvg-logo="" group-title="USA",(US) Comedy Central
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Comedy Central FHD" tvg-logo="" group-title="USA",(US) Comedy Central FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137235.ts
+#EXTINF:-1 tvg-ID="Comedy Central HD Eastern US" tvg-name="(US) Comedy Central HD" tvg-logo="http://picon.webhop.net/logo/usa/comedy_central_us_hd.png" group-title="USA",(US) Comedy Central HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) DIY Network" tvg-logo="" group-title="USA",(US) DIY Network
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137406.ts
+#EXTINF:-1 tvg-ID="DIY US" tvg-name="(US) DIY Network HD" tvg-logo="http://picon.webhop.net/logo/usa/diy_network_us.png" group-title="USA",(US) DIY Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) DW" tvg-logo="" group-title="USA",(US) DW
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Channel CA FHD" tvg-logo="" group-title="USA",(US) Discovery Channel CA FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Channel CA HD" tvg-logo="" group-title="USA",(US) Discovery Channel CA HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Channel FHD" tvg-logo="" group-title="USA",(US) Discovery Channel FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137414.ts
+#EXTINF:-1 tvg-ID="Discovery Channel US" tvg-name="(US) Discovery Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/discovery_us_hd.png" group-title="USA",(US) Discovery Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery HD" tvg-logo="" group-title="USA",(US) Discovery HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery HD Showcase" tvg-logo="" group-title="USA",(US) Discovery HD Showcase
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137412.ts
+#EXTINF:-1 tvg-ID="Discovery Science US" tvg-name="(US) Discovery Science" tvg-logo="http://picon.webhop.net/logo/usa/discovery-science-france-us-fr.png" group-title="USA",(US) Discovery Science
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Science HD" tvg-logo="" group-title="USA",(US) Discovery Science HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Showcase HD" tvg-logo="" group-title="USA",(US) Discovery Showcase HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Discovery Velocity" tvg-logo="" group-title="USA",(US) Discovery Velocity
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137408.ts
+#EXTINF:-1 tvg-ID="Discovery Velocity US" tvg-name="(US) Discovery Velocity HD" tvg-logo="http://picon.webhop.net/logo/usa/discovery_world_us.png" group-title="USA",(US) Discovery Velocity HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Disney Channel HD" tvg-logo="" group-title="USA",(US) Disney Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Disney XD HD" tvg-logo="" group-title="USA",(US) Disney XD HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) E! Entertainment HD" tvg-logo="" group-title="USA",(US) E! Entertainment HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) E! HD" tvg-logo="" group-title="USA",(US) E! HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ESPN 1" tvg-logo="" group-title="USA",(US) ESPN 1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ESPN 1 HD" tvg-logo="" group-title="USA",(US) ESPN 1 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137224.ts
+#EXTINF:-1 tvg-ID="ESPN 2 US" tvg-name="(US) ESPN 2" tvg-logo="http://picon.webhop.net/logo/usa/espn_2.png" group-title="USA",(US) ESPN 2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ESPN 2 FHD" tvg-logo="" group-title="USA",(US) ESPN 2 FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ESPN NEWS" tvg-logo="" group-title="USA",(US) ESPN NEWS
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ESPN U HD" tvg-logo="" group-title="USA",(US) ESPN U HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) El Rey Network FHD" tvg-logo="" group-title="USA",(US) El Rey Network FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) El Rey Network HD" tvg-logo="" group-title="USA",(US) El Rey Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FOX 4 FHD" tvg-logo="" group-title="USA",(US) FOX 4 FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FOX San Diego HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_san_diego_hd.png" group-title="USA",(US) FOX San Diego HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FOX W HD" tvg-logo="" group-title="USA",(US) FOX W HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FOX5 FHD" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_au_5.png" group-title="USA",(US) FOX5 FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FS1" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_us_1.png" group-title="USA",(US) FS1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137209.ts
+#EXTINF:-1 tvg-ID="FX US" tvg-name="(US) FX" tvg-logo="http://picon.webhop.net/logo/usa/fx_us.png" group-title="USA",(US) FX
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FX HD" tvg-logo="http://picon.webhop.net/logo/usa/fx_us.png" group-title="USA",(US) FX HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FXM HD" tvg-logo="" group-title="USA",(US) FXM HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137205.ts
+#EXTINF:-1 tvg-ID="FXX US" tvg-name="(US) FXX HD" tvg-logo="http://picon.webhop.net/logo/usa/fxx_us.png" group-title="USA",(US) FXX HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Family FHD" tvg-logo="" group-title="USA",(US) Family FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Family HD" tvg-logo="" group-title="USA",(US) Family HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fashion One HD" tvg-logo="http://picon.webhop.net/logo/usa/fashion-one-asia-uk.png" group-title="USA",(US) Fashion One HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fight HD" tvg-logo="" group-title="USA",(US) Fight HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fight Network HD" tvg-logo="" group-title="USA",(US) Fight Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fight Sport" tvg-logo="" group-title="USA",(US) Fight Sport
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fine Living" tvg-logo="" group-title="USA",(US) Fine Living
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Food Network HD" tvg-logo="" group-title="USA",(US) Food Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox College Sports Atlantic HD" tvg-logo="" group-title="USA",(US) Fox College Sports Atlantic HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Deportes HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_deportes_us.png" group-title="USA",(US) Fox Deportes HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox News HD" tvg-logo="" group-title="USA",(US) Fox News HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox News US HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_news_channel_hd.png" group-title="USA",(US) Fox News US HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Soccer Plus HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_soccer_plus.png" group-title="USA",(US) Fox Soccer Plus HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports 1" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_au_1.png" group-title="USA",(US) Fox Sports 1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137394.ts
+#EXTINF:-1 tvg-ID="FOX Sports 1 US" tvg-name="(US) Fox Sports 1 HD" tvg-logo="http://picon.webhop.net/logo/usa/fox_sports_au_1.png" group-title="USA",(US) Fox Sports 1 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports 2 HD" tvg-logo="" group-title="USA",(US) Fox Sports 2 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports 506 HD" tvg-logo="" group-title="USA",(US) Fox Sports 506 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Arizona HD" tvg-logo="" group-title="USA",(US) Fox Sports Arizona HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Carolina HD" tvg-logo="" group-title="USA",(US) Fox Sports Carolina HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Cincinnati HD" tvg-logo="" group-title="USA",(US) Fox Sports Cincinnati HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports College Central HD" tvg-logo="" group-title="USA",(US) Fox Sports College Central HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Detroit HD" tvg-logo="" group-title="USA",(US) Fox Sports Detroit HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Florida HD" tvg-logo="" group-title="USA",(US) Fox Sports Florida HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports HD" tvg-logo="" group-title="USA",(US) Fox Sports HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Indiana HD" tvg-logo="" group-title="USA",(US) Fox Sports Indiana HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports North HD" tvg-logo="" group-title="USA",(US) Fox Sports North HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Ohio HD" tvg-logo="" group-title="USA",(US) Fox Sports Ohio HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Plus HD" tvg-logo="" group-title="USA",(US) Fox Sports Plus HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports San Diego HD" tvg-logo="" group-title="USA",(US) Fox Sports San Diego HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports South East HD" tvg-logo="" group-title="USA",(US) Fox Sports South East HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports South Georgia HD" tvg-logo="" group-title="USA",(US) Fox Sports South Georgia HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports South HD" tvg-logo="" group-title="USA",(US) Fox Sports South HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Sun HD" tvg-logo="" group-title="USA",(US) Fox Sports Sun HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Tennessee HD" tvg-logo="" group-title="USA",(US) Fox Sports Tennessee HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports West HD" tvg-logo="" group-title="USA",(US) Fox Sports West HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fox Sports Wisconsin HD" tvg-logo="" group-title="USA",(US) Fox Sports Wisconsin HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Free Form HD" tvg-logo="" group-title="USA",(US) Free Form HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) FreeForm FHD" tvg-logo="" group-title="USA",(US) FreeForm FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Fuel HD" tvg-logo="" group-title="USA",(US) Fuel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) GRIT HD" tvg-logo="" group-title="USA",(US) GRIT HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) GSN HD" tvg-logo="" group-title="USA",(US) GSN HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Global BC" tvg-logo="" group-title="USA",(US) Global BC
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Gol TV HD" tvg-logo="" group-title="USA",(US) Gol TV HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) H2" tvg-logo="" group-title="USA",(US) H2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HBO Cinema HD" tvg-logo="" group-title="USA",(US) HBO Cinema HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137371.ts
+#EXTINF:-1 tvg-ID="HBO Comedy US" tvg-name="(US) HBO Comedy HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_comedy_us.png" group-title="USA",(US) HBO Comedy HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137370.ts
+#EXTINF:-1 tvg-ID="HBO East US" tvg-name="(US) HBO East" tvg-logo="http://picon.webhop.net/logo/usa/hbo_east.png" group-title="USA",(US) HBO East
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137369.ts
+#EXTINF:-1 tvg-ID="HBO Family US" tvg-name="(US) HBO Family HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_family.png" group-title="USA",(US) HBO Family HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HBO HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo.png" group-title="USA",(US) HBO HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137367.ts
+#EXTINF:-1 tvg-ID="HBO Signature US" tvg-name="(US) HBO Signature HD" tvg-logo="http://picon.webhop.net/logo/usa/hbo_signature.png" group-title="USA",(US) HBO Signature HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HGTV" tvg-logo="" group-title="USA",(US) HGTV
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HGTV CA FHD" tvg-logo="http://picon.webhop.net/logo/usa/hgtv_ca.png" group-title="USA",(US) HGTV CA FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HGTV CA HD" tvg-logo="" group-title="USA",(US) HGTV CA HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137435.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HGTV FHD" tvg-logo="" group-title="USA",(US) HGTV FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137364.ts
+#EXTINF:-1 tvg-ID="HGTV US" tvg-name="(US) HGTV HD" tvg-logo="http://picon.webhop.net/logo/usa/hgtv_us_hd.png" group-title="USA",(US) HGTV HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HIFI" tvg-logo="" group-title="USA",(US) HIFI
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HLN HD" tvg-logo="http://picon.webhop.net/logo/usa/hln_us.png" group-title="USA",(US) HLN HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HSN Live HD" tvg-logo="" group-title="USA",(US) HSN Live HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) HSN YT LIVE  FHD" tvg-logo="" group-title="USA",(US) HSN YT LIVE  FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Hallmark" tvg-logo="" group-title="USA",(US) Hallmark
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137198.ts
+#EXTINF:-1 tvg-ID="Hallmark Channel US" tvg-name="(US) Hallmark Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/hallmark_channel_us.png" group-title="USA",(US) Hallmark Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137436.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) History" tvg-logo="" group-title="USA",(US) History
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) History HD" tvg-logo="http://picon.webhop.net/logo/usa/history_us.png" group-title="USA",(US) History HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ID Extra HD" tvg-logo="" group-title="USA",(US) ID Extra HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) ID HD" tvg-logo="" group-title="USA",(US) ID HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137432.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) IFC HD" tvg-logo="http://picon.webhop.net/logo/usa/ifc_us.png" group-title="USA",(US) IFC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Investigation Discovery HD" tvg-logo="http://picon.webhop.net/logo/usa/investigation_discovery_us.png" group-title="USA",(US) Investigation Discovery HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Lifetime HD" tvg-logo="http://picon.webhop.net/logo/usa/lifetime_us.png" group-title="USA",(US) Lifetime HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Love Nature HD" tvg-logo="" group-title="USA",(US) Love Nature HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MLB HD" tvg-logo="" group-title="USA",(US) MLB HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137357.ts
+#EXTINF:-1 tvg-ID="MLB Network US" tvg-name="(US) MLB Network" tvg-logo="(US) MLB Network" group-title="USA",(US) MLB Network
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MLB Network HD" tvg-logo="" group-title="USA",(US) MLB Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MSNBC FHD" tvg-logo="" group-title="USA",(US) MSNBC FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137355.ts
+#EXTINF:-1 tvg-ID="MSNBC HD US" tvg-name="(US) MSNBC HD" tvg-logo="http://picon.webhop.net/logo/usa/msnbc_us_hd.png" group-title="USA",(US) MSNBC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MTV Base HD" tvg-logo="http://picon.webhop.net/logo/usa/mtv_base_uk.png" group-title="USA",(US) MTV Base HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MTV FHD" tvg-logo="http://picon.webhop.net/logo/usa/mtv_us_hd.png" group-title="USA",(US) MTV FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MTV HD" tvg-logo="http://picon.webhop.net/logo/usa/mtv_us_hd.png" group-title="USA",(US) MTV HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MTV Rocks" tvg-logo="" group-title="USA",(US) MTV Rocks
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) MTV2" tvg-logo="http://picon.webhop.net/logo/usa/mtv2_us.png" group-title="USA",(US) MTV2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBA TV FHD" tvg-logo="http://picon.webhop.net/logo/usa/nba_tv_lam.png" group-title="USA",(US) NBA TV FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137350.ts
+#EXTINF:-1 tvg-ID="NBA TV US" tvg-name="(US) NBA TV HD" tvg-logo="http://picon.webhop.net/logo/usa/nba_tv_lam.png" group-title="USA",(US) NBA TV HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC" tvg-logo="" group-title="USA",(US) NBC
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC FHD" tvg-logo="" group-title="USA",(US) NBC FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC Golf Channel HD" tvg-logo="" group-title="USA",(US) NBC Golf Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC News HD" tvg-logo="" group-title="USA",(US) NBC News HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC SN HD" tvg-logo="" group-title="USA",(US) NBC SN HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC San Diego HD" tvg-logo="" group-title="USA",(US) NBC San Diego HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC Sports California HD" tvg-logo="" group-title="USA",(US) NBC Sports California HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC Sports Network HD" tvg-logo="" group-title="USA",(US) NBC Sports Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBC W HD" tvg-logo="http://picon.webhop.net/logo/usa/nbc_us_west.png" group-title="USA",(US) NBC W HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBCSN FHD" tvg-logo="" group-title="USA",(US) NBCSN FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NBCSN HD" tvg-logo="" group-title="USA",(US) NBCSN HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Network" tvg-logo="http://picon.webhop.net/logo/usa/nfl_network_us.png" group-title="USA",(US) NFL Network
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Network 1" tvg-logo="" group-title="USA",(US) NFL Network 1
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Network 1080i" tvg-logo="" group-title="USA",(US) NFL Network 1080i
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Network HD" tvg-logo="" group-title="USA",(US) NFL Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Now HD" tvg-logo="" group-title="USA",(US) NFL Now HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NFL Redzone HD" tvg-logo="" group-title="USA",(US) NFL Redzone HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NHL Network" tvg-logo="" group-title="USA",(US) NHL Network
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NHL Network FHD" tvg-logo="" group-title="USA",(US) NHL Network FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) NHL Network HD" tvg-logo="" group-title="USA",(US) NHL Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Nat Geo Wild HD" tvg-logo="" group-title="USA",(US) Nat Geo Wild HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137353.ts
+#EXTINF:-1 tvg-ID="National Geographic US" tvg-name="(US) Nat Geographic HD" tvg-logo="http://picon.webhop.net/logo/usa/nat_geo_us_hd.png" group-title="USA",(US) Nat Geographic HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Nat. Geographic HD" tvg-logo="" group-title="USA",(US) Nat. Geographic HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Nick HD" tvg-logo="http://picon.webhop.net/logo/usa/nick_us_hd.png" group-title="USA",(US) Nick HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) OLYMPICS Channel HD" tvg-logo="" group-title="USA",(US) OLYMPICS Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) OWN FHD" tvg-logo="" group-title="USA",(US) OWN FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) OWN HD" tvg-logo="" group-title="USA",(US) OWN HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Oprah Winfrey Network HD" tvg-logo="http://picon.webhop.net/logo/usa/oprah_winfrey_network_us_hd.png" group-title="USA",(US) Oprah Winfrey Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137280.ts
+#EXTINF:-1 tvg-ID="Outdoor Channel US" tvg-name="(US) Outdoor Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/outdoor_channel_hd.png" group-title="USA",(US) Outdoor Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PAC-12 Arizona" tvg-logo="http://picon.webhop.net/logo/usa/pac_12_networks_us.png" group-title="USA",(US) PAC-12 Arizona
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PAC-12 Bay Area" tvg-logo="" group-title="USA",(US) PAC-12 Bay Area
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PAC-12 Los Angeles FHD" tvg-logo="" group-title="USA",(US) PAC-12 Los Angeles FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PAC-12 Oregon FHD" tvg-logo="" group-title="USA",(US) PAC-12 Oregon FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PAC-12 Washington FHD" tvg-logo="" group-title="USA",(US) PAC-12 Washington FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PBS FHD" tvg-logo="http://picon.webhop.net/logo/usa/pbs_hd.png" group-title="USA",(US) PBS FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) PBS HD" tvg-logo="http://picon.webhop.net/logo/usa/pbs_hd.png" group-title="USA",(US) PBS HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Pick TV" tvg-logo="" group-title="USA",(US) Pick TV
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Reelz HD" tvg-logo="http://picon.webhop.net/logo/usa/reelz_tv_us.png" group-title="USA",(US) Reelz HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) SEC Network HD" tvg-logo="" group-title="USA",(US) SEC Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) SUNDANCE FHD" tvg-logo="http://picon.webhop.net/logo/usa/sundance_tv_us_hd.png" group-title="USA",(US) SUNDANCE FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Science HD" tvg-logo="http://picon.webhop.net/logo/usa/science_us.png" group-title="USA",(US) Science HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Showtime 2" tvg-logo="" group-title="USA",(US) Showtime 2
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137322.ts
+#EXTINF:-1 tvg-ID="Showtime 2 US" tvg-name="(US) Showtime 2 HD" tvg-logo="http://picon.webhop.net/logo/usa/showtime2_hd.png" group-title="USA",(US) Showtime 2 HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Showtime East HD" tvg-logo="http://picon.webhop.net/logo/usa/showtime2_east.png" group-title="USA",(US) Showtime East HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Showtime FHD" tvg-logo="" group-title="USA",(US) Showtime FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137300.ts
+#EXTINF:-1 tvg-ID="Showtime Showcase US" tvg-name="(US) Showtime Showcase HD" tvg-logo="http://picon.webhop.net/logo/usa/showtime_showcase.png" group-title="USA",(US) Showtime Showcase HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Smile Of A Child" tvg-logo="" group-title="USA",(US) Smile Of A Child
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Spike TV HD" tvg-logo="http://picon.webhop.net/logo/usa/spike_tv_us_hd.png" group-title="USA",(US) Spike TV HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Sportsnet East HD" tvg-logo="" group-title="USA",(US) Sportsnet East HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Sportsnet Ontario HD" tvg-logo="" group-title="USA",(US) Sportsnet Ontario HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Sportsnet West HD" tvg-logo="" group-title="USA",(US) Sportsnet West HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Sprout World HD" tvg-logo="http://picon.webhop.net/logo/usa/sprout_hd.png" group-title="USA",(US) Sprout World HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137293.ts
+#EXTINF:-1 tvg-ID="Starz Cinema US" tvg-name="(US) Starz Cinema" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_cinema.png" group-title="USA",(US) Starz Cinema
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Starz Comedy" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_comedy.png" group-title="USA",(US) Starz Comedy
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137291.ts
+#EXTINF:-1 tvg-ID="Starz Edge US" tvg-name="(US) Starz Edge HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_edge_hd.png" group-title="USA",(US) Starz Edge HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137290.ts
+#EXTINF:-1 tvg-ID="Starz Encore US" tvg-name="(US) Starz Encore" tvg-logo="http://picon.webhop.net/logo/usa/starz_encore_us.png" group-title="USA",(US) Starz Encore
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Starz Encore HD" tvg-logo="http://picon.webhop.net/logo/usa/starz_encore_us_hd.png" group-title="USA",(US) Starz Encore HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137288.ts
+#EXTINF:-1 tvg-ID="Starz Kids and Family US" tvg-name="(US) Starz Kids & Family" tvg-logo="http://picon.webhop.net/logo/usa/starz_us_kids_family.png" group-title="USA",(US) Starz Kids & Family
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137287.ts
+#EXTINF:-1 tvg-ID="Syfy US" tvg-name="(US) SyFy" tvg-logo="http://picon.webhop.net/logo/usa/syfy_us_global.png" group-title="USA",(US) SyFy
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137266.ts
+#EXTINF:-1 tvg-ID="TNT US" tvg-name="(US) T.N.T FHD" tvg-logo="http://picon.webhop.net/logo/usa/tnt_us.png" group-title="USA",(US) T.N.T FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) TLC HD" tvg-logo="http://picon.webhop.net/logo/usa/tlc_us_hd.png" group-title="USA",(US) TLC HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137284.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) TNT" tvg-logo="http://picon.webhop.net/logo/usa/tnt_us.png" group-title="USA",(US) TNT
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) TVO HD" tvg-logo="" group-title="USA",(US) TVO HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Teletoon HD" tvg-logo="" group-title="USA",(US) Teletoon HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Travel Channel HD" tvg-logo="http://picon.webhop.net/logo/usa/travel_channel_us.png" group-title="USA",(US) Travel Channel HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Treehouse HD" tvg-logo="" group-title="USA",(US) Treehouse HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) UFC Fight Pass" tvg-logo="" group-title="USA",(US) UFC Fight Pass
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137264.ts
+#EXTINF:-1 tvg-ID="USA Network HD US" tvg-name="(US) US Network HD" tvg-logo="http://picon.webhop.net/logo/usa/usa_network_hd.png" group-title="USA",(US) US Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) US WWE HD" tvg-logo="" group-title="USA",(US) US WWE HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) USA HD" tvg-logo="" group-title="USA",(US) USA HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) USA Network FHD" tvg-logo="" group-title="USA",(US) USA Network FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137247.ts
+#EXTINF:-1 tvg-ID="USA Network HD US" tvg-name="(US) USA Network HD" tvg-logo="http://picon.webhop.net/logo/usa/usa_network_hd.png" group-title="USA",(US) USA Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Univision HD" tvg-logo="" group-title="USA",(US) Univision HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Univision Miami HD" tvg-logo="" group-title="USA",(US) Univision Miami HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137262.ts
+#EXTINF:-1 tvg-ID="VH1 Classic US" tvg-name="(US) VH1 Classic" tvg-logo="http://picon.webhop.net/logo/usa/vh1_global.png" group-title="USA",(US) VH1 Classic
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Velocity HD" tvg-logo="http://picon.webhop.net/logo/usa/velocity_us.png" group-title="USA",(US) Velocity HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) WAPA America" tvg-logo="http://picon.webhop.net/logo/usa/wapa_televicentro.png" group-title="USA",(US) WAPA America
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) WAPA America HD" tvg-logo="" group-title="USA",(US) WAPA America HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) WWE HD" tvg-logo="" group-title="USA",(US) WWE HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) WWE Network FHD" tvg-logo="" group-title="USA",(US) WWE Network FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) WWE Network HD" tvg-logo="" group-title="USA",(US) WWE Network HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) Willow HD" tvg-logo="http://picon.webhop.net/logo/usa/willow_us.png" group-title="USA",(US) Willow HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) YES Network FHD" tvg-logo="http://picon.webhop.net/logo/usa/yes_network_us.png" group-title="USA",(US) YES Network FHD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137303.ts
+#EXTINF:-1 tvg-ID="beIN Sport HD US" tvg-name="(US) beIN SPORTS" tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/02/beIN-SPORTS-Logo-768x137.png" group-title="USA",(US) beIN SPORTS
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137330.ts
+#EXTINF:-1 tvg-ID="beIN Sport HD US" tvg-name="(US) beINSports HD" tvg-logo="" group-title="USA",(US) beINSports HD
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(US) byu tv" tvg-logo="http://picon.webhop.net/logo/usa/byu_tv_global.png" group-title="USA",(US) byu tv
+http://ip.bttv.be:8000/live/vsNUJvUNql/ZFxuoYEx0j/137328.ts
